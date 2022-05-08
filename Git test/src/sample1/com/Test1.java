@@ -10,6 +10,7 @@ public class Test1 {
 		System.out.println(c);
 		System.out.println(a);
 		System.out.println(a);
+		System.out.println(c);
 	}
 
 }
